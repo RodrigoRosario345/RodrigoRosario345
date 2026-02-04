@@ -14,15 +14,15 @@
 
 <p align="center">
   <a href="mailto:rodrigorosario435@gmail.com">
-    <img src="https://img.shields.io/badge/📧_EMAIL-FF0000?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF0000" style="image-rendering: pixelated;" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
   </a>
   &nbsp;
   <a href="https://github.com/RodrigoRosario345" target="_blank">
-    <img src="https://img.shields.io/badge/🐙_GITHUB-6e5494?style=for-the-badge&labelColor=000000" />
+    <img src="https://img.shields.io/badge/GITHUB-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
   </a>
 </p>
 
@@ -41,10 +41,10 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║   🎮 CLASE: Frontend Developer                                   ║
-║   ⚔️  ESPECIALIDAD: React / Angular                               ║
-║   🛡️  HABILIDAD: Clean Architecture                               ║
-║   ❤️  HP: ████████████████████ 100%                               ║
-║   ⚡ XP: ████████████░░░░░░░░  60%                                ║
+║   ⚔️  ESPECIALIDAD: React / Angular                              ║
+║   🛡️  HABILIDAD: Clean Architecture                              ║
+║   ❤️  HP: ████████████████████ 100%                              ║
+║   ⚡ XP: ████████████░░░░░░░░  60%                               ║
 ║                                                                  ║
 ║   > Construyo interfaces limpias y mantenibles                   ║
 ║   > Me adapto rápido a nuevas tecnologías                        ║
@@ -136,6 +136,32 @@
       <br><sub><b>Firebase</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br><sub><b>Supabase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br><sub><b>Prisma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
 </table>
 
 <p align="center">
@@ -179,25 +205,6 @@
   </tr>
 </table>
 
-<!-- ════════════════ 📊 STATS ════════════════ -->
-
-<h2 align="center">📊 GAME STATS 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoRosario345&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FFDC00&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoRosario345&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=FFDC00&fire=E4405F&currStreakLabel=00FF00" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRosario345&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
-</p>
-
-<!-- ════════════════ 🐍 SNAKE ════════════════ -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <!-- ════════════════ FOOTER ════════════════ -->
 
 <p align="center">
@@ -205,9 +212,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=for-the-badge&color=FF0000&label=VISITORS" />
+  <img src="https://img.shields.io/badge/VISITORS-00FF00?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
+  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=pixel&color=00FF00" />
 </p>
 
 <p align="center">
-  <b>🎮 THANKS FOR VISITING! PRESS ⭐ TO CONTINUE 🎮</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FFDC00&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;PRESS+%E2%AD%90+TO+CONTINUE;INSERT+COIN+TO+COLLABORATE" alt="Footer typing" />
 </p>
