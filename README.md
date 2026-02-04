@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RodrigoRosario345">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Angular+%7C+Next.js;NestJS+%7C+Laravel+%7C+Flask;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Angular+%7C+Next.js;NestJS+%7C+Laravel+%7C+Flask" alt="Typing SVG" />
   </a>
 </p>
 
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align="center"><b>🌐 FRONTEND</b></td>
-    <td>React · Angular · Next.js · Tailwind · PrimeNG</td>
+    <td>React · Angular · Next.js · Tailwind</td>
   </tr>
   <tr>
     <td align="center"><b>⚙️ BACKEND</b></td>
