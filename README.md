@@ -1,7 +1,7 @@
 <!-- ══════════════════════════════ PRESENTATION ═══════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E63946,100:1D3557&height=200&section=header&text=RODRIGO%20ROSARIO%20CRUZ&fontSize=42&fontColor=F1FAEE&animation=twinkling&fontAlignY=30&desc=%F0%9F%8E%93%20Computer%20Science%20Engineer%20%7C%20%F0%9F%92%BB%20Fullstack%20Developer&descSize=18&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E63946,100:1D3557&height=200&section=header&text=RODRIGO%20ROSARIO%20CRUZ&fontSize=38&fontColor=F1FAEE&animation=twinkling&fontAlignY=30&desc=%F0%9F%8E%93%20Computer%20Science%20Engineer%20%7C%20%F0%9F%92%BB%20Fullstack%20Developer&descSize=17&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
