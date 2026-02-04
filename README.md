@@ -1,87 +1,213 @@
-<p align="center">
-	<img
-		src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:F97316&height=170&section=header&text=Rodrigo%20Rosario%20Cruz&fontSize=42&fontColor=FFFFFF&animation=fadeIn"
-		alt="Banner"
-	/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🎮  PIXEL ART STYLE PROFILE  🎮
+═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-	<img
-		src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%E2%80%A2+React+%2F+Angular;UI+consistente+con+PrimeNG+%E2%80%A2+Clean+Architecture;Full+Stack+cuando+se+necesita+%E2%80%A2+NestJS+%2F+Laravel+%2F+Flask"
-		alt="Typing SVG"
-	/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4405F,50:FFDC00,100:00D4FF&height=180&section=header&text=🕹️%20RODRIGO%20ROSARIO%20CRUZ%20🕹️&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=PRESS%20START%20TO%20CONTINUE&descSize=14&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-	<a href="mailto:rodrigorosario435@gmail.com">
-		<img alt="Email" src="https://img.shields.io/badge/Email-rodrigorosario435%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank" rel="noreferrer">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Rosario%20Cruz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://2024.igem.wiki/bolivia/home" target="_blank" rel="noreferrer">
-		<img alt="Demo iGEM" src="https://img.shields.io/badge/Demo-iGEM%202024-F97316?style=for-the-badge&logo=vercel&logoColor=white" />
-	</a>
-	<a href="https://github.com/RodrigoRosario345" target="_blank" rel="noreferrer">
-		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-RodrigoRosario345-000000?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%3E+FRONTEND+DEVELOPER;%3E+REACT+%2F+ANGULAR+SPECIALIST;%3E+CLEAN+ARCHITECTURE+PLAYER;%3E+LEVEL+UP+EVERY+DAY!" alt="Typing SVG" />
 </p>
 
-## Sobre mí
+<!-- ════════════════ 🎯 SOCIAL LINKS ════════════════ -->
 
-Desarrollador de software con enfoque en **frontend**. Me gusta construir interfaces limpias, accesibles y mantenibles, cuidando la consistencia visual y la experiencia de usuario. Disfruto trabajar en equipo, aprender rápido y entregar soluciones prácticas.
-
-## Enfoque actual
-
-- Interfaces modernas con **React** y **Angular (v16–v20)**
-- Diseño consistente y componentes con **PrimeNG**
-- Integración de datos con **GraphQL (Apollo)**
-- Buenas prácticas: **Clean Architecture**, escalabilidad y mantenibilidad
-
-## Tech Stack (resumen)
-
-<p>
-	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-	<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-	<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
-	<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-	<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-	<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-	<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-	<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-	<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<p align="center">
+  <a href="mailto:rodrigorosario435@gmail.com">
+    <img src="https://img.shields.io/badge/📧_EMAIL-FF0000?style=for-the-badge&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/RodrigoRosario345" target="_blank">
+    <img src="https://img.shields.io/badge/🐙_GITHUB-6e5494?style=for-the-badge&labelColor=000000" />
+  </a>
 </p>
 
-## Proyectos
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</p>
 
-- **Landing Page — Team Bolivia iGEM 2024**  
-	<a href="https://2024.igem.wiki/bolivia/home" target="_blank" rel="noreferrer">Ver demo</a>
+<!-- ════════════════ 👾 ABOUT ME ════════════════ -->
 
-- **Sistema web de gestión de propuestas académicas (USFX)**  
-	<a href="https://github.com/RodrigoRosario345/Sistema_Web_Gestion_Propuestas_Academicas" target="_blank" rel="noreferrer">Ver repo</a>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  PLAYER STATS
+</h2>
 
-- **Sistema de facturación para restaurante Rosario**  
-	<a href="https://github.com/RodrigoRosario345/Proyecto_Sistema_Facturacion_Restaurante_Rosario" target="_blank" rel="noreferrer">Ver repo</a>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🎮 CLASE: Frontend Developer                                   ║
+║   ⚔️  ESPECIALIDAD: React / Angular                               ║
+║   🛡️  HABILIDAD: Clean Architecture                               ║
+║   ❤️  HP: ████████████████████ 100%                               ║
+║   ⚡ XP: ████████████░░░░░░░░  60%                                ║
+║                                                                  ║
+║   > Construyo interfaces limpias y mantenibles                   ║
+║   > Me adapto rápido a nuevas tecnologías                        ║
+║   > Disfruto colaborar en equipo                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-- **Detección de sonidos peligrosos con IA**  
-	<a href="https://github.com/RodrigoRosario345/Sistema_deteccion_sonidos_peligrosos_RodrigoRosarioCruz_IA" target="_blank" rel="noreferrer">Ver repo</a>
+<!-- ════════════════ 🕹️ TECH STACK ════════════════ -->
 
-- **Sistema de recomendación de hoteles (Sucre, Bolivia)**  
-	<a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_de_Recomendacion_Hoteles_Sucre" target="_blank" rel="noreferrer">Ver repo</a>
+<h2 align="center">⚔️ WEAPONS & SKILLS ⚔️</h2>
 
-- **Aplicación Mundial Qatar 2022**  
-	<a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_del_Mundial_Qatar2022" target="_blank" rel="noreferrer">Ver repo</a>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br><sub><b>CSS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br><sub><b>Angular</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+      <br><sub><b>NestJS</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br><sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br><sub><b>GraphQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br><sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
 
-<details>
-	<summary><b>Más sobre mí</b></summary>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</p>
 
-	- Experiencia: pasantía Full Stack (10minds) — React, Angular, PrimeNG, Apollo GraphQL, NestJS; Clean Architecture.
-	- Educación: Ingeniería en Ciencias de la Computación (USFX).
-	- Soft skills: adaptabilidad, proactividad, trabajo en equipo, comunicación efectiva.
-</details>
+<!-- ════════════════ 🏆 PROJECTS ════════════════ -->
+
+<h2 align="center">🏆 QUEST LOG (PROYECTOS) 🏆</h2>
+
+<table align="center">
+  <tr>
+    <td>🌐</td>
+    <td><b>Landing Page — Team Bolivia iGEM 2024</b></td>
+    <td><a href="https://2024.igem.wiki/bolivia/home">🎮 PLAY DEMO</a></td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><b>Sistema de Gestión de Propuestas Académicas</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Sistema_Web_Gestion_Propuestas_Academicas">📂 VER REPO</a></td>
+  </tr>
+  <tr>
+    <td>🧾</td>
+    <td><b>Sistema de Facturación Restaurante</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Sistema_Facturacion_Restaurante_Rosario">📂 VER REPO</a></td>
+  </tr>
+  <tr>
+    <td>🔊</td>
+    <td><b>Detección de Sonidos Peligrosos con IA</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Sistema_deteccion_sonidos_peligrosos_RodrigoRosarioCruz_IA">📂 VER REPO</a></td>
+  </tr>
+  <tr>
+    <td>🏨</td>
+    <td><b>Sistema de Recomendación de Hoteles</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_de_Recomendacion_Hoteles_Sucre">📂 VER REPO</a></td>
+  </tr>
+  <tr>
+    <td>⚽</td>
+    <td><b>App Mundial Qatar 2022</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_del_Mundial_Qatar2022">📂 VER REPO</a></td>
+  </tr>
+</table>
+
+<!-- ════════════════ 📊 STATS ════════════════ -->
+
+<h2 align="center">📊 GAME STATS 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoRosario345&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=FFDC00&text_color=FFFFFF" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RodrigoRosario345&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=FFDC00&fire=E4405F&currStreakLabel=00FF00" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoRosario345&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
+</p>
+
+<!-- ════════════════ 🐍 SNAKE ════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- ════════════════ FOOTER ════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FFDC00,100:E4405F&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=for-the-badge&color=FF0000&label=VISITORS" />
+</p>
+
+<p align="center">
+  <b>🎮 THANKS FOR VISITING! PRESS ⭐ TO CONTINUE 🎮</b>
+</p>
