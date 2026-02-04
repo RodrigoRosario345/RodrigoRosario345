@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=800&color=E63946&center=true&vCenter=true&width=650&height=50&lines=%3E+FULLSTACK+DEVELOPER;%3E+REACT+%2F+ANGULAR+%2F+NEXT.JS;%3E+NESTJS+%2F+LARAVEL+%2F+FLASK" alt="Typing SVG" />
+  <a href="https://github.com/RodrigoRosario345">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+%7C+Angular+%7C+Next.js;NestJS+%7C+Laravel+%7C+Flask;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- ════════════════ 🎓 EDUCATION ════════════════ -->
@@ -230,9 +232,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VISITORS-1D3557?style=for-the-badge&logo=eye&logoColor=F1FAEE" />
-  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=pixel&color=E63946" />
+  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=for-the-badge&color=E63946" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=E63946&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;LET'S+BUILD+SOMETHING+GREAT;ALWAYS+LEARNING+%F0%9F%9A%80" alt="Footer typing" />
+  <a href="https://github.com/RodrigoRosario345">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=E63946&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+build+something+great!;Always+learning+%F0%9F%9A%80" alt="Footer typing" />
+  </a>
 </p>
