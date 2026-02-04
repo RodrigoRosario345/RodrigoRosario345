@@ -38,7 +38,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
-<!-- ════════════════ � SOBRE MÍ ════════════════ -->
+<!-- ════════════════ 👤 SOBRE MÍ ════════════════ -->
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/SOBRE_M%C3%8D-E63946?style=for-the-badge&logoColor=F1FAEE" />
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td align="center"><b>🛠️ HERRAMIENTAS</b></td>
-    <td>Git · Docker · Figma · VS Code</td>
+    <td>Git · Docker · Figma</td>
   </tr>
 </table>
 
@@ -89,6 +89,7 @@
 </h2>
 
 <table align="center">
+  <!-- FRONTEND -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -114,12 +115,17 @@
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
       <br><sub><b>Angular</b></sub>
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br><sub><b>Next.js</b></sub>
+    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br><sub><b>Tailwind</b></sub>
     </td>
+  </tr>
+  <!-- BACKEND -->
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br><sub><b>Node.js</b></sub>
@@ -137,44 +143,56 @@
       <br><sub><b>Python</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br><sub><b>Docker</b></sub>
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><sub><b>Flask</b></sub>
     </td>
-  </tr>
-  <tr>
+    <!-- DATOS -->
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       <br><sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><sub><b>Git</b></sub>
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><sub><b>Figma</b></sub>
+      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <br><sub><b>Supabase</b></sub>
     </td>
+  </tr>
+  <!-- DATOS + MOBILE + TOOLS -->
+  <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br><sub><b>Flutter</b></sub>
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br><sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br><sub><b>GraphQL</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br><sub><b>Firebase</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br><sub><b>Next.js</b></sub>
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br><sub><b>Flutter</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br><sub><b>Supabase</b></sub>
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br><sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><sub><b>Figma</b></sub>
     </td>
   </tr>
 </table>
@@ -183,7 +201,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
-<!-- ════════════════ 🏆 PROJECTS ════════════════ -->
+<!-- ════════════════ 🏆 PROYECTOS ════════════════ -->
 
 <h2 align="center">
   <img src="https://img.shields.io/badge/PROYECTOS-E63946?style=for-the-badge&logoColor=F1FAEE" />
