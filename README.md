@@ -3,34 +3,34 @@
 ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF00,100:0D1117&height=180&section=header&text=RODRIGO%20ROSARIO%20CRUZ&fontSize=36&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=%F0%9F%8E%93%20Computer%20Science%20Engineer%20%7C%20%F0%9F%92%BB%20Fullstack%20Developer&descSize=12&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E63946,100:1D3557&height=180&section=header&text=RODRIGO%20ROSARIO%20CRUZ&fontSize=36&fontColor=F1FAEE&animation=twinkling&fontAlignY=35&desc=%F0%9F%8E%93%20Computer%20Science%20Engineer%20%7C%20%F0%9F%92%BB%20Fullstack%20Developer&descSize=12&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=800&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%3E+FULLSTACK+DEVELOPER;%3E+REACT+%2F+ANGULAR+%2F+NEXT.JS;%3E+NESTJS+%2F+LARAVEL+%2F+FLASK;%3E+CLEAN+ARCHITECTURE;%3E+USFX+-+BOLIVIA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=800&color=E63946&center=true&vCenter=true&width=650&height=50&lines=%3E+FULLSTACK+DEVELOPER;%3E+REACT+%2F+ANGULAR+%2F+NEXT.JS;%3E+NESTJS+%2F+LARAVEL+%2F+FLASK" alt="Typing SVG" />
 </p>
 
 <!-- ════════════════ 🎓 EDUCATION ════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UNIVERSIDAD_SAN_FRANCISCO_XAVIER-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/INGENIER%C3%8DA_EN_CIENCIAS_DE_LA_COMPUTACI%C3%93N-00FF00?style=for-the-badge&logoColor=0D1117" />
-  <img src="https://img.shields.io/badge/2020--2025-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/UNIVERSIDAD_SAN_FRANCISCO_XAVIER_DE_CHUQUISACA-1D3557?style=for-the-badge&logo=graduation-cap&logoColor=F1FAEE" />
+  <img src="https://img.shields.io/badge/INGENIER%C3%8DA_EN_CIENCIAS_DE_LA_COMPUTACI%C3%93N-E63946?style=for-the-badge&logoColor=F1FAEE" />
+  <img src="https://img.shields.io/badge/2020--2025-1D3557?style=for-the-badge&logoColor=F1FAEE" />
 </p>
 
 <!-- ════════════════ 🎯 SOCIAL LINKS ════════════════ -->
 
 <p align="center">
   <a href="mailto:rodrigorosario435@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/EMAIL-1D3557?style=for-the-badge&logo=gmail&logoColor=F1FAEE" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=F1FAEE" />
   </a>
   &nbsp;
   <a href="https://github.com/RodrigoRosario345" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/GITHUB-1D3557?style=for-the-badge&logo=github&logoColor=F1FAEE" />
   </a>
 </p>
 
@@ -41,13 +41,18 @@
 <!-- ════════════════ � SOBRE MÍ ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/SOBRE_M%C3%8D-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/SOBRE_M%C3%8D-E63946?style=for-the-badge&logoColor=F1FAEE" />
 </h2>
 
 <p align="center">
-  Desarrollador de software con enfoque <b>fullstack</b>.<br>
-  Construyo aplicaciones web completas, desde interfaces modernas hasta APIs robustas.<br>
-  Me adapto rápido a nuevas tecnologías y disfruto colaborar en equipo.
+  <i>"No espero a que las oportunidades lleguen, las busco y las construyo."</i>
+</p>
+
+<p align="center">
+  Soy un desarrollador <b>junior fullstack</b> con muchas ganas de crecer. 🚀<br>
+  Me apasiona crear soluciones útiles, aprender algo nuevo cada día<br>
+  y aportar con actitud positiva a cada equipo donde colaboro.<br>
+  <b>Proactivo, curioso y siempre listo para el siguiente reto.</b>
 </p>
 
 <table align="center">
@@ -80,7 +85,7 @@
 <!-- ════════════════ 🕹️ TECH STACK ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/TECH_STACK-1D3557?style=for-the-badge&logoColor=F1FAEE" />
 </h2>
 
 <table align="center">
@@ -181,7 +186,7 @@
 <!-- ════════════════ 🏆 PROJECTS ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/PROYECTOS-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/PROYECTOS-E63946?style=for-the-badge&logoColor=F1FAEE" />
 </h2>
 
 <table align="center">
@@ -220,14 +225,14 @@
 <!-- ════════════════ FOOTER ════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF00,100:0D1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,50:E63946,100:1D3557&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITORS-0D1117?style=for-the-badge&logo=gamepad&logoColor=00FF00" />
-  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=pixel&color=00FF00" />
+  <img src="https://img.shields.io/badge/VISITORS-1D3557?style=for-the-badge&logo=eye&logoColor=F1FAEE" />
+  <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=pixel&color=E63946" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;PRESS+%E2%AD%90+TO+CONTINUE;INSERT+COIN+TO+COLLABORATE" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=E63946&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;LET'S+BUILD+SOMETHING+GREAT;ALWAYS+LEARNING+%F0%9F%9A%80" alt="Footer typing" />
 </p>
