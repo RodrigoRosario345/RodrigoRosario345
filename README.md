@@ -3,26 +3,34 @@
 ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E4405F,50:FFDC00,100:00D4FF&height=180&section=header&text=🕹️%20RODRIGO%20ROSARIO%20CRUZ%20🕹️&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=PRESS%20START%20TO%20CONTINUE&descSize=14&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF00,100:0D1117&height=180&section=header&text=RODRIGO%20ROSARIO%20CRUZ&fontSize=36&fontColor=00FF00&animation=twinkling&fontAlignY=35&desc=%F0%9F%8E%93%20Computer%20Science%20Engineer%20%7C%20%F0%9F%92%BB%20Fullstack%20Developer&descSize=12&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=%3E+FRONTEND+DEVELOPER;%3E+REACT+%2F+ANGULAR+SPECIALIST;%3E+CLEAN+ARCHITECTURE+PLAYER;%3E+LEVEL+UP+EVERY+DAY!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=800&color=00FF00&center=true&vCenter=true&width=650&height=50&lines=%3E+FULLSTACK+DEVELOPER;%3E+REACT+%2F+ANGULAR+%2F+NEXT.JS;%3E+NESTJS+%2F+LARAVEL+%2F+FLASK;%3E+CLEAN+ARCHITECTURE;%3E+USFX+-+BOLIVIA" alt="Typing SVG" />
+</p>
+
+<!-- ════════════════ 🎓 EDUCATION ════════════════ -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UNIVERSIDAD_SAN_FRANCISCO_XAVIER-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/INGENIER%C3%8DA_EN_CIENCIAS_DE_LA_COMPUTACI%C3%93N-00FF00?style=for-the-badge&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/2020--2025-0D1117?style=for-the-badge&logoColor=00FF00" />
 </p>
 
 <!-- ════════════════ 🎯 SOCIAL LINKS ════════════════ -->
 
 <p align="center">
   <a href="mailto:rodrigorosario435@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF0000" style="image-rendering: pixelated;" />
+    <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF00" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00" />
   </a>
   &nbsp;
   <a href="https://github.com/RodrigoRosario345" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
+    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF00" />
   </a>
 </p>
 
@@ -33,20 +41,20 @@
 <!-- ════════════════ 👾 ABOUT ME ════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  PLAYER STATS
+  <img src="https://img.shields.io/badge/PLAYER_STATS-0D1117?style=for-the-badge&logoColor=00FF00" />
 </h2>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   🎮 CLASE: Frontend Developer                                   ║
-║   ⚔️  ESPECIALIDAD: React / Angular                              ║
-║   🛡️  HABILIDAD: Clean Architecture                              ║
+║   🎮 CLASE: Fullstack Developer                                  ║
+║   🎓 TITULO: Ing. Ciencias de la Computación                      ║
+║   ⚔️  FRONTEND: React / Angular / Next.js                         ║
+║   🛡️  BACKEND: NestJS / Laravel / Flask                            ║
 ║   ❤️  HP: ████████████████████ 100%                              ║
 ║   ⚡ XP: ████████████░░░░░░░░  60%                               ║
 ║                                                                  ║
-║   > Construyo interfaces limpias y mantenibles                   ║
+║   > Construyo aplicaciones web completas                         ║
 ║   > Me adapto rápido a nuevas tecnologías                        ║
 ║   > Disfruto colaborar en equipo                                 ║
 ║                                                                  ║
@@ -55,7 +63,9 @@
 
 <!-- ════════════════ 🕹️ TECH STACK ════════════════ -->
 
-<h2 align="center">⚔️ WEAPONS & SKILLS ⚔️</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/WEAPONS_%26_SKILLS-0D1117?style=for-the-badge&logoColor=00FF00" />
+</h2>
 
 <table align="center">
   <tr>
@@ -145,22 +155,6 @@
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
       <br><sub><b>Supabase</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br><sub><b>Prisma</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br><sub><b>Vercel</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br><sub><b>VS Code</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -170,7 +164,9 @@
 
 <!-- ════════════════ 🏆 PROJECTS ════════════════ -->
 
-<h2 align="center">🏆 QUEST LOG (PROYECTOS) 🏆</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/QUEST_LOG_(PROYECTOS)-0D1117?style=for-the-badge&logoColor=00FF00" />
+</h2>
 
 <table align="center">
   <tr>
@@ -208,14 +204,14 @@
 <!-- ════════════════ FOOTER ════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:FFDC00,100:E4405F&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF00,100:0D1117&height=100&section=footer" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VISITORS-00FF00?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" style="image-rendering: pixelated;" />
+  <img src="https://img.shields.io/badge/VISITORS-0D1117?style=for-the-badge&logo=gamepad&logoColor=00FF00" />
   <img src="https://komarev.com/ghpvc/?username=RodrigoRosario345&style=pixel&color=00FF00" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FFDC00&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;PRESS+%E2%AD%90+TO+CONTINUE;INSERT+COIN+TO+COLLABORATE" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=THANKS+FOR+VISITING!;PRESS+%E2%AD%90+TO+CONTINUE;INSERT+COIN+TO+COLLABORATE" alt="Footer typing" />
 </p>
