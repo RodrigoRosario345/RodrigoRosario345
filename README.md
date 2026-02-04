@@ -38,33 +38,49 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </p>
 
-<!-- ════════════════ 👾 ABOUT ME ════════════════ -->
+<!-- ════════════════ � SOBRE MÍ ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/PLAYER_STATS-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/SOBRE_M%C3%8D-0D1117?style=for-the-badge&logoColor=00FF00" />
 </h2>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🎮 CLASE: Fullstack Developer                                  ║
-║   🎓 TITULO: Ing. Ciencias de la Computación                      ║
-║   ⚔️  FRONTEND: React / Angular / Next.js                         ║
-║   🛡️  BACKEND: NestJS / Laravel / Flask                            ║
-║   ❤️  HP: ████████████████████ 100%                              ║
-║   ⚡ XP: ████████████░░░░░░░░  60%                               ║
-║                                                                  ║
-║   > Construyo aplicaciones web completas                         ║
-║   > Me adapto rápido a nuevas tecnologías                        ║
-║   > Disfruto colaborar en equipo                                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  Desarrollador de software con enfoque <b>fullstack</b>.<br>
+  Construyo aplicaciones web completas, desde interfaces modernas hasta APIs robustas.<br>
+  Me adapto rápido a nuevas tecnologías y disfruto colaborar en equipo.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 ROL</b></td>
+    <td>Fullstack Developer</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎓 FORMACIÓN</b></td>
+    <td>Ing. en Ciencias de la Computación — USFX (2020–2025)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 FRONTEND</b></td>
+    <td>React · Angular · Next.js · Tailwind · PrimeNG</td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ BACKEND</b></td>
+    <td>NestJS · Laravel · Flask · Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ DATOS</b></td>
+    <td>MySQL · PostgreSQL · Supabase · Firebase</td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ HERRAMIENTAS</b></td>
+    <td>Git · Docker · Figma · VS Code</td>
+  </tr>
+</table>
 
 <!-- ════════════════ 🕹️ TECH STACK ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/WEAPONS_%26_SKILLS-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/TECH_STACK-0D1117?style=for-the-badge&logoColor=00FF00" />
 </h2>
 
 <table align="center">
@@ -165,7 +181,7 @@
 <!-- ════════════════ 🏆 PROJECTS ════════════════ -->
 
 <h2 align="center">
-  <img src="https://img.shields.io/badge/QUEST_LOG_(PROYECTOS)-0D1117?style=for-the-badge&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/PROYECTOS-0D1117?style=for-the-badge&logoColor=00FF00" />
 </h2>
 
 <table align="center">
