@@ -226,7 +226,7 @@
   <tr>
     <td>🔊</td>
     <td><b>Detección de Sonidos Peligrosos con IA</b></td>
-    <td><a href="https://github.com/RodrigoRosario345/Sistema_deteccion_sonidos_peligrosos_RodrigoRosarioCruz_IA">📂 VER REPO</a></td>
+    <td><a href="https://github.com/RodrigoRosario345/Sistema_deteccion_sonidos_peligrosos_IA.git">📂 VER REPO</a></td>
   </tr>
   <tr>
     <td>🏨</td>
