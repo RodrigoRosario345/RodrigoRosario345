@@ -236,7 +236,7 @@
   <tr>
     <td>⚽</td>
     <td><b>App Mundial Qatar 2022</b></td>
-    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_del_Mundial_Qatar2022">📂 VER REPO</a></td>
+    <td><a href="https://github.com/RodrigoRosario345/Aplicacion_del_Mundial_Qatar2022">📂 VER REPO</a></td>
   </tr>
 </table>
 
