@@ -29,9 +29,6 @@
     <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=F1FAEE" />
   </a>
   &nbsp;
-  <a href="https://github.com/RodrigoRosario345" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-1D3557?style=for-the-badge&logo=github&logoColor=F1FAEE" />
-  </a>
 </p>
 
 <p align="center">
