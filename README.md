@@ -230,8 +230,8 @@
   </tr>
   <tr>
     <td>🏨</td>
-    <td><b>Sistema de Recomendación de Hoteles</b></td>
-    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Aplicacion_de_Recomendacion_Hoteles_Sucre">📂 VER REPO</a></td>
+    <td><b>Sistema de Reservación de Hoteles</b></td>
+    <td><a href="https://github.com/RodrigoRosario345/Aplicacion_de_Reservacion_Hoteles_Sucre.git">📂 VER REPO</a></td>
   </tr>
   <tr>
     <td>⚽</td>
