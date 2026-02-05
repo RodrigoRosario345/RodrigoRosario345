@@ -221,7 +221,7 @@
   <tr>
     <td>🧾</td>
     <td><b>Sistema de Facturación Restaurante</b></td>
-    <td><a href="https://github.com/RodrigoRosario345/Proyecto_Sistema_Facturacion_Restaurante_Rosario">📂 VER REPO</a></td>
+    <td><a href="https://github.com/RodrigoRosario345/Sistema_Facturacion_Restaurante_Rosario.git">📂 VER REPO</a></td>
   </tr>
   <tr>
     <td>🔊</td>
