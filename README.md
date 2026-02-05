@@ -24,11 +24,9 @@
   <a href="mailto:rodrigorosario435@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-1D3557?style=for-the-badge&logo=gmail&logoColor=F1FAEE" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/rodrigo-rosario-cruz" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=F1FAEE" />
   </a>
-  &nbsp;
 </p>
 
 <p align="center">
