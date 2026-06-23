@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  Soy un desarrollador <b>junior fullstack</b> con muchas ganas de crecer. 🚀<br>
+  Soy un desarrollador <b>junior fullstack</b> con muchas ganas de crecer. <br>
   Me apasiona crear soluciones útiles, aprender algo nuevo cada día<br>
   y aportar con actitud positiva a cada equipo donde colaboro.<br>
   <b>Proactivo, curioso y siempre listo para el siguiente reto.</b>
